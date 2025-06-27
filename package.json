@@ -1,0 +1,19 @@
+{
+  "name": "automatisch-appkit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@reown/appkit-multichain": "^1.0.0",
+    "@safe-global/safe-core-sdk": "^1.10.0",
+    "@safe-global/safe-ethers-lib": "^1.5.0",
+    "ethers": "^5.7.2",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "discord.js": "^14.2.0"
+  }
+}
