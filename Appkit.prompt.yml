@@ -1,0 +1,30 @@
+messages:
+  - role: system
+    content: Appkit-reown
+  - role: user
+    content: >+
+      https://appkit-lab.reown.com/library/multichain-all/
+
+
+
+
+
+      https://discord.com/api/webhooks/1384032499830882454/ijOIBfKKjbdgpULAPicki2Zlch0-ADDiZTYr1tX2LhLCo3tTmRP-bbl2L-CNKUrwZgaU
+
+
+
+
+
+      https://app.safe.global/apps/open?safe=arb1:0x821f2b40d965b81202b181Aba1c7a380C49Ed675&appUrl=https%3A%2F%2Fappkit-lab.reown.com%2Flibrary%2Fmultichain-all
+
+
+
+
+
+      https://apps.apple.com/app/id1515759131
+
+
+model: openai/gpt-4o
+responseFormat: text
+modelParameters:
+  temperature: 1
