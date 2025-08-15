@@ -1,0 +1,315 @@
+Headers
+Request URL: 
+AppKit Lab
+https://discord.com/api/webhooks/1384032499830882454/ijOIBfKKjbdgpULAPicki2Zlch0-ADDiZTYr1tX2LhLCo3tTmRP-bbl2L-CNKUrwZgaU
+Request method: POST
+Accept: */*
+Content-Type: application/json
+User-Agent: GitHub-Hookshot/94bfbfd
+X-GitHub-Delivery: 34937ee0-5361-11f0-9353-5920b4881e4d
+X-GitHub-Event: ping
+X-GitHub-Hook-ID: 554696369
+X-GitHub-Hook-Installation-Target-ID: 1009646779
+X-GitHub-Hook-Installation-Target-Type: repository
+X-Hub-Signature: sha1=32b4db127e46da904bd25823f0220a35a5bf3184
+X-Hub-Signature-256: sha256=c578866eaff20eacc24a91488508144283d947c8eb45f3842aca91702e9ceaf9
+Payload
+{
+  "zen": "Favor focus over features.",
+  "hook_id": 554696369,
+  "hook": {
+    "type": "Repository",
+    "id": 554696369,
+    "name": "web",
+    "active": true,
+    "events": [
+      "*"
+    ],
+    "config": {
+      "content_type": "json",
+      "insecure_ssl": "0",
+      "secret": "********",
+      "url": "
+https://discord.com/api/webhooks/1384032499830882454/ijOIBfKKjbdgpULAPicki2Zlch0-ADDiZTYr1tX2LhLCo3tTmRP-bbl2L-CNKUrwZgaU
+"
+    },
+    "updated_at": "2025-06-27T14:15:40Z",
+    "created_at": "2025-06-27T14:15:40Z",
+    "url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/hooks/554696369
+",
+    "test_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/hooks/554696369/test
+",
+    "ping_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/hooks/554696369/pings
+",
+    "deliveries_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/hooks/554696369/deliveries
+",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  },
+  "repository": {
+    "id": 1009646779,
+    "node_id": "R_kgDOPC38uw",
+    "name": "automatisch-appkit",
+    "full_name": "thegoodeth12/automatisch-appkit",
+    "private": false,
+    "owner": {
+      "login": "thegoodeth12",
+      "id": 172343141,
+      "node_id": "U_kgDOCkW_ZQ",
+      "avatar_url": "
+https://avatars.githubusercontent.com/u/172343141?v=4
+",
+      "gravatar_id": "",
+      "url": "
+https://api.github.com/users/thegoodeth12
+",
+      "html_url": "
+thegoodeth12 - Overview
+",
+      "followers_url": "
+https://api.github.com/users/thegoodeth12/followers
+",
+      "following_url": "
+https://api.github.com/users/thegoodeth12/following{/other_user}
+",
+      "gists_url": "
+https://api.github.com/users/thegoodeth12/gists{/gist_id}
+",
+      "starred_url": "
+https://api.github.com/users/thegoodeth12/starred{/owner}{/repo}
+",
+      "subscriptions_url": "
+https://api.github.com/users/thegoodeth12/subscriptions
+",
+      "organizations_url": "
+https://api.github.com/users/thegoodeth12/orgs
+",
+      "repos_url": "
+https://api.github.com/users/thegoodeth12/repos
+",
+      "events_url": "
+https://api.github.com/users/thegoodeth12/events{/privacy}
+",
+https://api.github.com/users/thegoodeth12/received_events
+      "received_events_url": "
+
+",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": true 
+    },
+    "html_url": "
+thegoodeth12/automatisch-appkit: Reown AppKit is a plug-and-play Safe App frontend for managing smart contract wallets (like Gnosis Safe) — but on steroids it
+",
+    "description": "Reown AppKit is a plug-and-play Safe App frontend for managing smart contract wallets (like Gnosis Safe) — but on steroids",
+    "fork": false,
+    "url": "",
+    "forks_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/forks
+",
+    "keys_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkits
+",
+    "collaborators_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/collaborators{/collaborator}
+",
+    "teams_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/teams
+",
+    "hooks_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/hooks
+",
+    "issue_events_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/issues/events{/number}
+",
+    "events_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/events
+",
+    "assignees_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/assignees{/user}
+",
+    "branches_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/branches{/branch}
+",
+    "tags_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/tags
+",
+    "blobs_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/git/blobs{/sha}
+",
+    "git_tags_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/git/tags{/sha}
+",
+    "git_refs_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/git/refs{/sha}
+",
+    "trees_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/git/trees{/sha}
+",
+    "statuses_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/statuses/{sha}
+",
+    "languages_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/languages
+",
+    "stargazers_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/stargazers
+",
+    "contributors_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/contributors
+",
+    "subscribers_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/subscribers
+",
+    "subscription_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/subscription
+",
+    "commits_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/commits{/sha}
+",
+    "git_commits_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/git/commits{/sha}
+",
+    "comments_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/comments{/number}
+",
+    "issue_comment_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/issues/comments{/number}
+",
+    "contents_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/contents/{+path}
+",
+    "compare_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/compare/{base}
+...{head}",
+    "merges_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/merges
+",
+    "archive_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/{archive_format}{/ref}
+",
+    "downloads_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/downloads
+",
+    "issues_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/issues{/number}
+",
+    "pulls_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/pulls{/number}
+",
+    "milestones_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/milestones{/number}
+",
+    "notifications_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/notifications{?since,all,participating}
+",
+    "labels_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/labels{/name}
+",
+    "releases_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/releases{/id}
+",
+    "deployments_url": "
+https://api.github.com/repos/thegoodeth12/automatisch-appkit/deployments
+",
+    "created_at": "2025-06-27T13:25:30Z",
+    "updated_at": "2025-06-27T14:00:58Z",
+    "pushed_at": "2025-06-27T14:00:55Z",
+- [ ]     "git_url": "git://github.com/thegoodeth12/automatisch-appkit.git",
+    "ssh_url": "git@github.com:thegoodeth12/automatisch-appkit.git",
+    "clone_url": "
+thegoodeth12/automatisch-appkit: Reown AppKit is a plug-and-play Safe App frontend for managing smart contract wallets (like Gnosis Safe) — but on steroids it
+",
+    "svn_url": "
+thegoodeth12/automatisch-appkit: Reown AppKit is a plug-and-play Safe App frontend for managing smart contract wallets (like Gnosis Safe) — but on steroids it
+",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "
+https://api.github.com/licenses/mpl-2.0
+",
+      "node_id": "MDc6TGljZW5zZTE0"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 1,
+    "watchers": 0,
+    "default_branch": "main"
+  },
+  "sender": {
+    "login": "thegoodeth12",
+    "id": 172343141,
+    "node_id": "U_kgDOCkW_ZQ",
+    "avatar_url": "
+https://avatars.githubusercontent.com/u/172343141?v=4
+",
+    "gravatar_id": "",
+    "url": "
+https://api.github.com/users/thegoodeth12
+",
+    "html_url": "
+https://github.com/thegoodeth12
+",
+    "followers_url": "
+https://api.github.com/users/thegoodeth12/followers
+",
+    "following_url": "
+https://api.github.com/users/thegoodeth12/following{/other_user}
+",
+    "gists_url": "
+https://api.github.com/users/thegoodeth12/gists{/gist_id}
+",
+    "starred_url": "
+https://api.github.com/users/thegoodeth12/starred{/owner}{/repo}
+",
+    "subscriptions_url": "
+https://api.github.com/users/thegoodeth12/subscriptions
+",
+    "organizations_url": "
+https://api.github.com/users/thegoodeth12/orgs
+",
+    "repos_url": "
+https://api.github.com/users/thegoodeth12/repos
+",
+    "events_url": "
+https://api.github.com/users/thegoodeth12/events{/privacy}
+",
+    "received_events_url": "
+https://api.github.com/users/thegoodeth12/received_events
+",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": true 
+  }
+}
